@@ -1,0 +1,9 @@
+### Customer
+GET http://localhost:8282/ms-customer/customers/list
+
+### Account
+GET http://localhost:8282/ms-account/accounts/list
+
+### Currency-converter
+GET http://localhost:8282/currency-converter/api/currency/list
+Content-Type: application/json
